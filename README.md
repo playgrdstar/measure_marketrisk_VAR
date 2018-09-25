@@ -1,3 +1,3 @@
-# Primer on Linear Regression
+# Simple Primer on Market Risk Measures
 
-Primer on linear regression with statsmodels and scikit-learn
+Simple introduction to VAR, one of the most commonly used measures of market risk
